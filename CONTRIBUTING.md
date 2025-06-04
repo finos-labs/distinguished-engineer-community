@@ -1,17 +1,13 @@
-# {project name} Contribution and Governance Policies
+# Distinguished Engineer Community Contribution and Governance Policies
 
-This document describes the contribution process and governance policies of the FINOS {project name} project. The project is also governed by the [Linux Foundation Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), and the FINOS [IP Policy]( https://community.finos.org/governance-docs/IP-policy.pdf), [Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct), [Collaborative Principles](https://community.finos.org/docs/governance/collaborative-principles/), and [Meeting Procedures](https://community.finos.org/docs/governance/meeting-procedures/).
+This document describes the contribution process and governance policies of the FINOS Distinguished Engineer Community SIG. The SIG is also governed by the [Linux Foundation Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), and the FINOS [IP Policy]( https://community.finos.org/governance-docs/IP-policy.pdf), [Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct), [Collaborative Principles](https://community.finos.org/docs/governance/collaborative-principles/), and [Meeting Procedures](https://community.finos.org/docs/governance/meeting-procedures/).
 
-## Contribution Process
+AI Readiness is [CC-BY-4.0 licensed](LICENSE) and accepts contributions via git pull requests. Each commit must include a DCO line in the git commit message:
 
-Before making a contribution, please take the following steps:
-1. Check whether there's already an open issue related to your proposed contribution. If there is, join the discussion and propose your contribution there.
-2. If there isn't already a relevant issue, create one, describing your contribution and the problem you're trying to solve.
-3. Respond to any questions or suggestions raised in the issue by other developers.
-4. Fork the project repository and prepare your proposed contribution.
-5. Submit a pull request.
+`Signed-off-by: GitHub User Name <your.email@example.com>`
 
-NOTE: All contributors must have a contributor license agreement (CLA) on file with FINOS before their pull requests will be merged. Please review the FINOS [contribution requirements](https://community.finos.org/docs/governance/Software-Projects/contribution-compliance-requirements) and submit (or have your employer submit) the required CLA before submitting a pull request.
+This sign-off means you agree the commit satisfies the
+[Developer Certificate of Origin (DCO).](https://developercertificate.org/)
 
 ## Governance
 

@@ -1,10 +1,8 @@
 // Docs at https://docusaurus.io/blog/releases/3.1
 
-
+const projectName = 'Distinguished Engineer Community Special Interest Group'
 // Replace 'project-blueprint' with {project name}
-const projectName = 'Project Blueprint'
-// Replace 'project-blueprint' with {project name}
-const projectSlug = 'project-blueprint'
+const projectSlug =  'distinguished-engineer-community'
 // Replace 'FINOS' with {name of copyright owner}
 const copyrightOwner = 'FINOS'
 

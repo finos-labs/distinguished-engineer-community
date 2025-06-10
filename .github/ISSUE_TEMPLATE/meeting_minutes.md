@@ -1,7 +1,7 @@
 ---
-name: "\U0001F91D {project name} Meeting Minutes"
-about: To track {project name} meeting agenda and attendance
-title: DD MMM YYYY - {project name} Meeting Minutes
+name: "\U0001F91D Distinguished Engineer Community SIG Meeting Minutes"
+about: To track Distinguished Engineer Community SIG meeting agenda and attendance
+title: DD MMM YYYY - Distinguished Engineer Community SIG Meeting Minutes
 labels: meeting
 assignees: 
 
@@ -11,8 +11,8 @@ assignees:
 YYYYMMDD - time
 
 ## Meeting Details
-- Meeting link :
-- Register for future meetings:
+- Meeting link: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
+- Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0&invite=true
 
 ## Untracked attendees
 - Fullname, Affiliation, (optional) GitHub username

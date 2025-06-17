@@ -3,7 +3,7 @@ name: "\U0001F91D Distinguished Engineer Community SIG Meeting Minutes"
 about: To track Distinguished Engineer Community SIG meeting agenda and attendance
 title: DD MMM YYYY - Distinguished Engineer Community SIG Meeting Minutes
 labels: meeting
-assignees: 
+type: meeting
 
 ---
 
@@ -14,7 +14,10 @@ YYYYMMDD - time
 - Meeting link: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
 - Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0&invite=true
 
-## Untracked attendees
+## Tracking attendance
+Please comment on this issue with your name and affiliation to help track attendence. If you are unable to comment on a GitHub issue, please let the chair know to add you to the list below:
+
+### Untracked attendees
 - Fullname, Affiliation, (optional) GitHub username
 - ...
 

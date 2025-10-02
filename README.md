@@ -2,7 +2,7 @@
 
 # Distinguished Engineer Community
 
-Short blurb about what your project does.
+Our mission is to facilitate a trusted, accredited network of distinguished engineers and senior technology leaders who provide independent advice, strategic guidance, and mentorship to worthy causes and communities. Through our collective efforts, we seek to empower impactful initiatives, promote responsible use of technology, and do good in society beyond the boundaries of our industry roles.
 
 ## Roadmap
 

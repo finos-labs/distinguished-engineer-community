@@ -60,8 +60,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Getting Started',
-              to: 'docs/home',
+              label: 'Defining Distinguished Engineers',
+              to: 'docs/DERoleDefinition',
             },
             {
               label: 'Roadmap',

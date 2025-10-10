@@ -14,16 +14,24 @@
   --ifm-color-primary-light: #0093d2;
   --ifm-color-primary-lighter: #009adc;
   --ifm-color-primary-lightest: #00aef8;
-  --ifm-font-color-base: #1C1E21;
-  --ifm-heading-color: #19B6CC;
-  --ifm-navbar-background-color: #0086BF;
+  --ifm-font-color-base: #000162;
+  --ifm-heading-color: #080764;
+  --ifm-navbar-background-color: #080764;
   --ifm-navbar-link-color: #FFFFFF;
   --ifm-navbar-shadow: 0;
-  --ifm-footer-background-color: #0086BF;
+  --ifm-footer-background-color: #080764;
   --ifm-footer-title-color: #ffffff;
   --ifm-footer-color: #ffffff;
   --ifm-footer-link-color: #ffffff;
   --ifm-code-font-size: 95%;
+  --ifm-button-background-color: #000162;
+  --ifm-button-color: #080764;
+  --ifm-button-border-color: #080764;
+  --ifm-color-secondary: #c800ff;
+  --ifm-menu-color-active: #080764;
+  --ifm-link-color: #0079f9;
+  --ifm-footer-link-hover-color: #c800ff;
+  --ifm-navbar-link-hover-color: #c800ff;
 }
 
 .navbar__items {
@@ -38,23 +46,24 @@
 }
 
 .hero.hero--primary {
-  background-color: #0086BF;
+  background-color: #ffffff;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .hero.hero--primary img {
   margin-bottom: 30px;
-  width: 50%;
+  width: 80%;
 }
 
 .hero__title {
-  color: #ffffff;
+  color: #000162;
 }
 
 .hero--subtitle {
   margin-bottom: 50px;
   font-size: 1.5rem;
+  color: #000162;
 }
 
 .row h2 {
@@ -88,7 +97,22 @@ body{
   sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 
+a:hover{
+  color: var(--ifm-color-secondary);
+}
+
 .padding {
   margin-top: 25px;
   margin-bottom: 25px;
+}
+
+.button--outline {
+  --ifm-button-background-color: #000162;
+  --ifm-button-color: var(--ifm-button-border-color);
+  --ifm-button-border-color: #080764;
+}
+
+.button--outline:hover {
+  --ifm-button-background-color: var(--ifm-color-secondary);
+  border: var(--ifm-button-border-width) solid var(--ifm-color-secondary);
 }

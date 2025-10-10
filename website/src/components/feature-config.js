@@ -3,7 +3,7 @@ import React from 'react';
 export const features = [
     {
         title: <>Defining Distinguished Engineers</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        imageUrl: '/img/feature/DE-definition.png',
         description: (
             <>This document lays out a proposed standard definition for the role of Distinguished Engineer in Financial Services. Its goal is to provide clarity and consistency across organisations that wish to use it.</>
         ),

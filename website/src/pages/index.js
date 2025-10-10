@@ -18,9 +18,9 @@ function Home() {
       description={`${siteConfig.tagline}`}>
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
+          <img src="img/DE-SIG-logo.jpg" width="100%" alt="Distinguished Engineer Community logo" / >
           <p className={classnames('hero--subtitle')}>{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
+          {/* <div className={styles.buttons}>
             <Link
               className={classnames(
                 'button button--outline button--secondary button--lg',
@@ -37,7 +37,7 @@ function Home() {
               to={'https://github.com/finos'}>
               GITHUB
             </Link>
-          </div>
+          </div> */}
         </div>
       </header>
       <main>

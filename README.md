@@ -1,8 +1,12 @@
 ![badge-labs](https://user-images.githubusercontent.com/327285/230928932-7c75f8ed-e57b-41db-9fb7-a292a13a1e58.svg)
 
-# Distinguished Engineer Community
+<p align="center">
+    <img src="website/static/img/DE-SIG-logo.jpg" width="90%" alt="Distinguished Engineer Community logo">
+</p>
 
-Short blurb about what your project does.
+&nbsp;
+
+_“Our mission is to facilitate a trusted, accredited network of distinguished engineers and senior technology leaders who provide independent advice, strategic guidance and mentorship to worthy causes and Communities. Through our collective efforts, we seek to empower impactful initiatives, promote responsible use of technology, and do good in society beyond the boundaries of our industry roles.”_
 
 ## Roadmap
 
@@ -25,6 +29,7 @@ Signed-off-by: John Doe <john.doe@example.com>
 Adding the `-s` flag to your `git commit` will add that line automatically. You can also add it manually as part of your commit log message or add it afterwards with `git commit --amend -s`.
 
 ### Helpful DCO Resources
+
 - [Git Tools - Signing Your Work](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
 - [Signing commits
 ](https://docs.github.com/en/github/authenticating-to-github/signing-commits)

@@ -1,6 +1,7 @@
 // Docs at https://docusaurus.io/blog/releases/3.1
 
 const projectName = 'Distinguished Engineer Community Special Interest Group'
+const githubOrganisation = 'finos'
 const projectSlug =  'distinguished-engineer-community'
 const copyrightOwner = 'FINOS'
 
@@ -35,7 +36,7 @@ module.exports = {
         {to: 'docs/roadmap', label: 'Roadmap', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
         {
-          href: 'https://github.com/finos-labs/distinguished-engineer-community/',
+          href: `https://github.com/${githubOrganisation}/${projectSlug}/`,
           label: 'GitHub',
           position: 'right',
         }
@@ -117,7 +118,7 @@ module.exports = {
         docs: {
           path: '../docs',
           editUrl:
-            'https://github.com/finos/${projectSlug}/edit/main/website/',
+            `https://github.com/${githubOrganisation}/${projectSlug}/edit/main/website/`,
           sidebarPath: require.resolve('./sidebars.js')
         },
         theme: {

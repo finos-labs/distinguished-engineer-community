@@ -1,7 +1,7 @@
 // Docs at https://docusaurus.io/blog/releases/3.1
 
 const projectName = 'Distinguished Engineer Community Special Interest Group'
-const githubOrganisation = 'finos'
+const githubOrganisation = 'finos-labs'
 const projectSlug =  'distinguished-engineer-community'
 const copyrightOwner = 'FINOS'
 

@@ -209,100 +209,100 @@ The three categories are shown in Figure 2:
 
 The following are suggested competencies within each category.
 
-### Technical depth and breadth of expertise in their field
+## Technical depth and breadth of expertise in their field
 
-#### 1. Engineering Expertise
+### 1. Engineering Expertise
 
 - As well as general breadth in knowledge across engineering and technology they have deep expertise in at least one field of engineering.
 - They are widely known for this expertise across the organisation and also externally, are called upon to advise others in it, and use their expertise to increase the organisation’s capability in this area.
 
-#### 2.Industry Expertise
+### 2.Industry Expertise
 
 - As well as a general breadth in knowledge across financial services they have deep understanding in at least one area of the industry.
 - They are able to use their industry expertise to build better solutions for their organisation and customers.
 
-#### 3. Problem Solving through Technology
+### 3. Problem Solving through Technology
 
 - Understands and applies key change methodologies to plan and implement technological change.
 - Able to consider the impact of technological change and the intended and non-intended consequences when planning change.
 - Applies analytical and problem-solving skills to resolve complex problems.
 - Considers operating patterns and resilience in designing solutions.
 
-#### 4. Accelerator of Technology Best Practices
+### 4. Accelerator of Technology Best Practices
 
 - Is able to reduce the time taken to introduce technology best practices through identifying and influencing the points of maximum leverage, pre-emptively addressing potential obstacles and building broad alliances that transcend narrow interests.
 - Focuses best practice on simplification, safety, effectiveness and commercial aspects, looking to incorporate concepts such as re-use, open source, cyber security, automation, resilience, etc.
 
-#### 5. Technology Delivery
+### 5. Technology Delivery
 
 - Able to shape the processes and organisational operating models to ensure the effective development, testing, release and support of applications in a production environment.
 - Proactively improves the delivery of technology and ensures the organisation remains competitive with best-in-class technology organisations, through increasing collaboration across teams, shift left practices, automation, etc.
 - Is able to work effectively with the broader organisation and different stakeholders to meet delivery goals.
 
-#### 6. Commercial Approach
+### 6. Commercial Approach
 
 - Understands how and why products and services in their business are offered and consumed and the value they deliver.
 - Understands the commercial context for selecting solutions and running technology functions.
 - Is able to use metrics to evidence value and influence management buy-in.
 
-#### 7. Architecture and Infrastructure
+### 7. Architecture and Infrastructure
 
 - Understands underlying infrastructural concepts such as networking, databases, compute, etc in order to better design solutions.
 - Engages, influences and drives better architectural standards and plans.
 
-### Enterprise-level influencer
+## Enterprise-level influencer
 
-#### 8. Organisational Awareness
+### 8. Organisational Awareness
 
 - Understands and is able to work within formal and informal organisational processes to bring about change and extend their influence.
 - Politically astute, able to work effectively with different stakeholders to manage sensitivities and ensure broad alignment across different constituencies.
 
-#### 9. Collaboration Mind-set
+### 9. Collaboration Mind-set
 
 - Thinks and behaves in ways that are consistent with win-win outcomes.
 - Collaborates effectively with related technical professionals.
 - Combines assertiveness with the ability to cooperate to achieve the best outcomes for all parties and a stronger solution.
 
-#### 10. Developing Self and Others
+### 10. Developing Self and Others
 
 - Comprehends the difference between coaching and mentoring and knows when and how to apply them.
 - Applies both approaches effectively to enhance organisational technological capability, through developing self and others.
 
-#### 11. Influential Thought Leader
+### 11. Influential Thought Leader
 
 - Influences the way the organisation and its individuals think about technology.
 - Able to innovate to create new ways of working and more effective solutions and drive these forward to the point of becoming received wisdoms and norms.
 
-#### 12. Effective communicator
+### 12. Effective communicator
 
 - Has the ability to communicate complex technology with clarity and simplicity to a variety of audiences.
 - Uses communication to generate awareness, understanding, engagement and commitment.
 
-#### 13. Industry Innovator
+### 13. Industry Innovator
 
 - Draws on analytical capabilities to support and deliver innovation within the organisation.
 - Brings these innovations into the industry, shaping the way things are done across the industry and across other technology organisations.
 
-#### 14. Inspiring Role Model
+### 14. Inspiring Role Model
 
 - Represents the pinnacle of an engineering career path.
 - Is seen as a role model and their position is aspirational to others.
 - Role model across the industry and DE community(s).
 
-### Industry collaborator
+## Industry collaborator
 
-#### 15. Educates and Influences the Industry
+### 15. Educates and Influences the Industry
 
 - Applies their technical knowledge to shape thinking across theirs and broader industries.
 - Has the skills needed to do this in a way that is accepted and appreciated by those the Distinguished Engineer seeks to educate and influence.
 
-#### 16. Industry Engagement
+### 16. Industry Engagement
 
 - Member of industry forums, and contributes to open source.
 - Remains abreast of technological developments, engaging/contributing to research.
 - May publish patents on behalf of their organisation.
 
-#### 17. Representing their Organisation
+### 17. Representing their Organisation
 
 - Attends conferences and broader industry events, either as a speaker or a panel member, representing their organisation.
 - Represents their organisation from a technology perspective with regulators and standards bodies.

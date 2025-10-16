@@ -53,7 +53,7 @@ This kind of flexibility is vital if the definition is to be accepted and adopte
 
 This has been achieved by specifying the principles to be observed, rather than the specific ways these principles should be applied.  However, when defining the competencies of a DE the definition sets out three broad areas to be covered and suggests the specific traits, skills and competencies that could articulate each area. These are suggestions, not dictates, for awarding organisations to adopt, but we hope that many indeed do accept the definition largely wholesale.
 
-## 3. Overview of the Definition
+## Overview of the Definition
 
 The definition covers the three main elements of a DE Function:
 
@@ -309,7 +309,7 @@ The following are suggested competencies within each category.
 
 ---
 
-## 7. Conclusion
+## Conclusion
 
 This document seeks to clarify and promote the role of Distinguished Engineer in financial services. There is no reason why the definition laid out here may not be applied to software engineering roles in other industries. However, given the foothold already established in a number of banks over many years, it was decided to begin the process here and hope that it will be adopted by others within financial services and then potentially outside the industry.
 

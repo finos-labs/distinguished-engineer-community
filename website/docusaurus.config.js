@@ -32,7 +32,7 @@ module.exports = {
         src: 'img/favicon/favicon.ico',
       },
       items: [
-        {to: 'docs/home', label: 'Docs', position: 'right'},
+        {to: 'docs/about-us', label: 'Docs', position: 'right'},
         {to: 'docs/roadmap', label: 'Roadmap', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
         {

@@ -16,6 +16,7 @@ module.exports = {
   organizationName: 'FINOS',
   customFields: {
     repoUrl: `https://github.com/finos-labs/${projectSlug}`,
+    missionStatement: "Our mission is to facilitate a trusted, accredited network of distinguished engineers and senior technology leaders who provide independent advice, strategic guidance and mentorship to worthy causes and Communities. Through our collective efforts, we seek to empower impactful initiatives, promote responsible use of technology, and do good in society beyond the boundaries of our industry roles."
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
@@ -61,12 +62,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Defining Distinguished Engineers',
-              to: 'docs/DERoleDefinition',
+              label: 'About the DE SIG',
+              to: 'docs/about-us'
             },
             {
-              label: 'Roadmap',
-              to: 'docs/roadmap',
+              label: 'Defining Distinguished Engineers',
+              to: 'docs/DERoleDefinition',
             },
             {
               label: 'Team',

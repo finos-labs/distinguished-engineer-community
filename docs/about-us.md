@@ -1,7 +1,11 @@
 ---
 id: about-us
-title: "About the Distinguished Engineer SIG"
+title: "About the DE SIG"
 ---
+
+## Our Mission Statement
+
+_"Our mission is to facilitate a trusted, accredited network of distinguished engineers and senior technology leaders who provide independent advice, strategic guidance and mentorship to worthy causes and Communities. Through our collective efforts, we seek to empower impactful initiatives, promote responsible use of technology, and do good in society beyond the boundaries of our industry roles."_
 
 ## Who We Are
 
@@ -38,11 +42,4 @@ We operate by a core set of **guiding principles**:
 
 Above all, we share our expertise with **humility, passion, and dedication** — without judgment, and without prejudice. Our goal is to leave every organization and person we work with stronger, smarter, and better equipped for the future.
 
-
-
-
-
-
-- Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0&invite=true
-
-
+<!-- - Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0&invite=true -->

@@ -38,6 +38,7 @@ function Home() {
               GITHUB
             </Link>
           </div> */}
+          <p className={classnames('hero--missionStatement')}>"{siteConfig.customFields.missionStatement}"</p>
         </div>
       </header>
       <main>

@@ -42,7 +42,7 @@ function Home() {
         </div>
       </header>
       <main>
-        {features && features.length && (
+        {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
               <div className="row">
@@ -53,7 +53,7 @@ function Home() {
             </div>
           </section>
         )}
-        {featuresTwo && featuresTwo.length && (
+        {featuresTwo && featuresTwo.length > 0 && (
           <section className={styles.members}>
             <div className="container">
               <div className="row row--center">

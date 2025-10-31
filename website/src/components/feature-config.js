@@ -2,6 +2,25 @@ import React from 'react';
 
 export const features = [
     {
+        title: <>About Us</>,
+        imageUrl: '/img/feature/about-us.png',
+        description: (
+            <>Learn more about the Distinguished Engineer Special Interest group, its goals and how it works to help Distinguished Engineers have a positive impact on wider society.</>
+        ),
+        about: {
+            title: <>Learn more about the DE SIG</>,
+            link: 'docs/about-us'
+        },        
+        project: {
+            title: '',
+            link: ''
+        },        
+        involved: {
+            title: '',
+            link: ''
+        }  
+    },
+    {
         title: <>Defining Distinguished Engineers</>,
         imageUrl: '/img/feature/DE-definition.png',
         description: (
@@ -21,29 +40,10 @@ export const features = [
         }  
     },
     {
-        title: <>Feature 2</>,
-        imageUrl: '/img/finos/finos-blue.png',
+        title: <>How We Can Help</>,
+        imageUrl: '/img/feature/how-we-can-help.png',
         description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
-        ),
-        about: {
-            title: <>Placeholder Link</>,
-            link: 'docs'
-        },                
-        project: {
-            title: '',
-            link: ''
-        },        
-        involved: {
-            title: '',
-            link: ''
-        }  
-    },
-    {
-        title: <>Feature 3</>,
-        imageUrl: '/img/finos/finos-blue.png',
-        description: (
-            <>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</>
+            <>Coming soon!</>
         ),
         about: {
             title: <>Placeholder Link</>,

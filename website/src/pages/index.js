@@ -38,10 +38,11 @@ function Home() {
               GITHUB
             </Link>
           </div> */}
+          <p className={classnames('hero--missionStatement')}>"{siteConfig.customFields.missionStatement}"</p>
         </div>
       </header>
       <main>
-        {features && features.length && (
+        {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
               <div className="row">
@@ -52,7 +53,7 @@ function Home() {
             </div>
           </section>
         )}
-        {featuresTwo && featuresTwo.length && (
+        {featuresTwo && featuresTwo.length > 0 && (
           <section className={styles.members}>
             <div className="container">
               <div className="row row--center">

@@ -61,9 +61,16 @@
 }
 
 .hero--subtitle {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   font-size: 1.5rem;
   color: #000162;
+}
+
+.hero--missionStatement {
+  margin-bottom: 0px;
+  font-size: 1.1rem;
+  color: #000162;
+  font-style: italic;
 }
 
 .row h2 {

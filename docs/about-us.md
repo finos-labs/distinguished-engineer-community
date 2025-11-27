@@ -47,5 +47,5 @@ Above all, we share our expertise with **humility, passion, and dedication** —
 ## Our Members
 
 | Name | Organisation | Biography |
-| :--- | :----: | ---: |
+| :--- | :---- | :--- |
 | Peter Thomas | Deutsche Bank | A Distinguished Engineer since 2020, Peter leads Core Technology Applications and Platforms within DB's Investment Bank. He has a special interest in Engineering Culture and Career Development. |

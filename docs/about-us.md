@@ -43,3 +43,9 @@ We operate by a core set of **guiding principles**:
 Above all, we share our expertise with **humility, passion, and dedication** — without judgment, and without prejudice. Our goal is to leave every organization and person we work with stronger, smarter, and better equipped for the future.
 
 <!-- - Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0&invite=true -->
+
+## Our Members
+
+| Name | Organisation | Biography |
+| :--- | :---- | :--- |
+| Peter Thomas | Deutsche Bank | A Distinguished Engineer since 2020, Peter leads Core Technology Applications and Platforms within DB's Investment Bank. He has a special interest in Engineering Culture and Career Development. |

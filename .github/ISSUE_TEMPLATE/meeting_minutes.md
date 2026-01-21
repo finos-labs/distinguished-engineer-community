@@ -11,6 +11,7 @@ YYYYMMDD - time
 ## Meeting Details
 - Meeting link: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0
 - Register for future meetings: https://zoom-lfx.platform.linuxfoundation.org/meeting/94448504669?password=eae95588-ef7e-4d50-a03b-7e8c64fb14d0&invite=true
+- Subscribe to mailing list: Send an email to [distinguished-engineer-community+subscribe@lists.finos.org](mailto:distinguished-engineer-community+subscribe@lists.finos.org) or view mailing list https://lists.finos.org/g/distinguished-engineer-community
 
 ## Tracking attendance
 Please comment on this issue with your name and affiliation to help track attendence. If you are unable to comment on a GitHub issue, please let the chair know to add you to the list below:

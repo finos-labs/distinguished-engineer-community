@@ -4,12 +4,6 @@
     <img src="website/static/img/DE-SIG-logo.jpg" width="90%" alt="Distinguished Engineer Community logo">
 </p>
 
-!badge-labs
-
-<p align="center">
-  website/static/img/DE-SIG-logo.jpg
-</p>
-
 # Distinguished Engineer Community (FINOS DE SIG)
 
 > **Mission**  

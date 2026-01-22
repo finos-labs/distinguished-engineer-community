@@ -113,7 +113,7 @@ Initial focus includes:
 
 ## License
 
-Copyright © 2025 Fintech Open Source Foundation
+Copyright © 2026 Fintech Open Source Foundation
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 

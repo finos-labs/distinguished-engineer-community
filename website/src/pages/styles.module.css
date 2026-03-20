@@ -36,6 +36,10 @@
   width: 100%;
 }
 
+.features :global(.row) {
+  justify-content: center;
+}
+
 .featuresCTA{
   text-align: center;
 }

@@ -25,13 +25,19 @@ This document describes the contribution process and governance policies of the 
 
 ## Scope: What You Can Contribute
 
-This is primarily a **documentation and resources** repository. Examples include:
+This is primarily a **documentation and resources** repository. Contributions are welcome across all working groups and cross‑cutting themes:
+
+### Working Group Content
+
+- **Outreach**: technology landscape review templates, strategic guidance frameworks, charity engagement playbooks, case studies from outreach engagements
+- **Inclusive Engineering**: mentoring guides, program templates, inclusive practices, ethical nudge patterns, education and school outreach materials
+- **DE Role Definition**: improvements to the standard definition, adoption guidance, competency framework examples
+
+### Cross‑Cutting Content
 
 - **Toolkit content**: playbooks, checklists, templates, frameworks
 - **Guides and explainers**: architecture patterns, decision frameworks, AI usage guardrails
-- **Mentoring & allyship** materials: guides, program templates, inclusive practices
 - **Education content**: talks, decks, webinars, school outreach materials
-- **Nudge Unit** patterns: ethical nudges, design considerations, examples
 - **Thought leadership**: curated reading lists, synthesized insights
 - **Research**: briefs, methods, collaboration proposals
 - **Case studies / success stories** (anonymized and shareable)
@@ -46,6 +52,7 @@ This is primarily a **documentation and resources** repository. Examples include
 - **Open an Issue** to request a resource, propose a change, or discuss an idea
 - **Comment on Issues/PRs** to share expertise or suggest improvements
 - **Submit a PR** with content or fixes
+- **Join a Working Group** — participate in the Outreach or Inclusive Engineering groups
 - **Join discussions** on approach, structure, and roadmap
 - **Propose a talk/webinar** or share slides for community reuse
 - **Share a success story** (ensure it’s anonymized and publishable)

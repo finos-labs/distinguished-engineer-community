@@ -21,13 +21,38 @@ As a **Special Interest Group (SIG)** within the Fintech Open Source Foundation 
 
 ## What We Do
 
-We bring practical, senior engineering leadership to real‑world challenges:
+We bring practical, senior engineering leadership to real‑world challenges through our active **working groups** and cross‑cutting activities.
+
+### Working Groups
+
+Our work is organized into focused subgroups, each tackling a distinct area of our mission:
+
+#### Outreach Working Group *(active)*
+
+Partners with charities and social impact organisations that would not normally have access to independent, high‑level technical guidance. DEs from different firms collaborate to:
+
+- Conduct **technology landscape reviews** — assessing infrastructure, platforms, data management, disaster recovery, and change approaches.
+- Provide **strategic technical guidance** — independent advice on cost optimisation, reliability, scalability, and long‑term technology strategy.
+- **Enable in‑house teams** — identifying skills gaps and building lasting technical confidence.
+- Deliver **open‑source driven support** — drawing on open‑source tools, frameworks, and best practices.
+- Maintain **organisation‑led, respectful partnerships** — the organisations we work with always define their objectives and own their decisions.
+
+#### Inclusive Engineering Working Group *(active)*
+
+Focuses on mentoring, allyship, and inclusive technology practices:
+
+- **Mentoring & allyship** — mentoring across career stages, prioritizing underrepresented groups.
+- **Nudge Unit** — ethical behavioral design to encourage better decisions without limiting choice.
+- **Education & development** — talks, webinars, school outreach, myth‑busting about tech in finance.
+
+#### DE Role Definition Working Group *(completed)*
+
+Delivered a [standard definition for the Distinguished Engineer role](docs/DERoleDefinition.md) in Financial Services, providing clarity and consistency for organisations establishing or evolving their own DE programmes.
+
+### Cross‑Cutting Activities
 
 - **Technical leadership & guidance** — long‑term technology direction; complex systems and architecture reviews; scaling innovation.
-- **Practical advice** — hands‑on help, e.g., AI usage guidance, tender support, tooling and policy checklists, building teams (hiring, mentoring, collaboration).
-- **Mentoring & allyship** — mentoring across career stages, prioritizing underrepresented groups.
-- **Education & development** — talks, webinars, school outreach, myth‑busting about tech in finance, specialist topics (e.g., AI).
-- **Nudge Unit** — ethical behavioral design to encourage better decisions without limiting choice.
+- **Practical advice** — hands‑on help, e.g., AI usage guidance, tender support, tooling and policy checklists, building teams.
 - **Thought leadership** — curating articles, books, and conference content from our members.
 - **Research** — partnering on studies that promote responsible tech and societal good.
 
@@ -73,13 +98,14 @@ We follow the FINOS Community Code of Conduct. Be respectful, inclusive, and con
 
 ## What We Produce (Toolkit)
 
-We are building a public **Toolkit** of independently useful resources:
+We are building a public **Toolkit** of independently useful resources, organized by working group and cross‑cutting themes:
 
+- **Outreach** — technology landscape review templates, strategic guidance frameworks, charity engagement playbooks.
+- **Inclusive Engineering** — mentor guides, program templates, inclusive practices, ethical nudge patterns.
+- **DE Role Definition** — standard role definition document, competency frameworks, adoption guidance.
 - **Leadership & strategy** — architecture review frameworks, decision records, operating models.
 - **Practical guidance** — AI usage guardrails, RFP/tender checklists, policy/playbook templates.
-- **Mentoring & allyship** — mentor guides, program templates, inclusive practices.
 - **Education** — slide decks, webinars, short explainer notes, school outreach materials.
-- **Nudge Unit** — ethical nudge patterns and design considerations.
 - **Thought leadership** — curated reading lists, talks, case studies / success stories.
 - **Research** — summary briefs, methods, collaboration frameworks.
 
@@ -104,8 +130,10 @@ See [CONTRIBUTING.mc](./CONTRIBUTING.md) for details on:
 
 We track the roadmap transparently through issues, milestones, and (optionally) a `ROADMAP.md`.  
 Initial focus includes:
+- Expanding **Outreach** engagements with charities and social impact organisations
 - Curating and publishing the first version of the **Toolkit**
-- Establishing the mentoring/allyship materials
+- Establishing the **Inclusive Engineering** mentoring/allyship materials
+- Promoting adoption of the **DE Role Definition** across the industry
 - Capturing case studies and research partnerships
 - Publishing public talk materials and educational content
 

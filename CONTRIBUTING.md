@@ -87,12 +87,27 @@ We use an **issue‑first workflow** and standard GitHub PR reviews.
 
 ## Reviews, Approvals & Merging
 
-- **Small changes** (typos, formatting, small fixes): require **≥1 maintainer** approval.
-- **Substantial changes** (new guides, frameworks, templates): require **≥2 maintainer** approvals.
-- We prefer **squash merges** to keep history clean.
+We use a two‑tier review model. Any maintainer may escalate a PR to the significant tier if they believe the impact warrants it.
+
+### Standard changes
+
+Most contributions — new guides, templates, case studies, fixes, and improvements to existing content.
+
+- Require **≥1 maintainer** approval (≥2 for larger additions).
 - **Lazy consensus** applies: if no substantive objections are raised within a reasonable review window (typically 5–10 business days), maintainers may proceed with merge.
 
-> Maintainers may request additional review for sensitive topics or broad structural changes.
+### Significant changes
+
+Changes that materially affect the SIG's direction, governance, or public commitments — for example, changes to governance or decision‑making processes, creation or retirement of working groups, new external partnerships or public positions, and structural reorganisation of the repository or toolkit.
+
+- Must start with a **GitHub Issue or Discussion** labelled `significant-decision`, open for a minimum of **10 business days** before a PR is raised.
+- Require **active approval** (explicit "+1") from **≥3 maintainers representing ≥2 organisations**. Lazy consensus does not apply — silence is not agreement.
+- The PR description must include a short decision record summarising motivation, alternatives considered, and outcome.
+
+### General
+
+- We prefer **squash merges** to keep history clean.
+- Use GitHub labels (`standard`, `significant-decision`) to make the expected process visible.
 
 ---
 

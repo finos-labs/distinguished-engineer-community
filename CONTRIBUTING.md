@@ -1,51 +1,178 @@
-# Distinguished Engineer Community Contribution and Governance Policies
+# Contributing to the Distinguished Engineer Community (FINOS DE SIG)
+
+We’re glad you’re here! This repository is a collaborative hub for **public, reusable resources** created by Distinguished Engineers and the broader community, all aligned to our mission of responsible, high‑impact technology.
+
+> ✅ We welcome contributions from **anyone**: engineers, subject matter experts, professional/engineering practice groups, researchers, students, and more.
+
+---
 
 This document describes the contribution process and governance policies of the FINOS Distinguished Engineer Community SIG. The SIG is also governed by the [Linux Foundation Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), and the FINOS [IP Policy]( https://community.finos.org/governance-docs/IP-policy.pdf), [Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct), [Collaborative Principles](https://community.finos.org/docs/governance/collaborative-principles/), and [Meeting Procedures](https://community.finos.org/docs/governance/meeting-procedures/).
 
-AI Readiness is [CC-BY-4.0 licensed](LICENSE) and accepts contributions via git pull requests. Each commit must include a DCO line in the git commit message:
+## Contents
 
-`Signed-off-by: GitHub User Name <your.email@example.com>`
+1. Scope: What You Can Contribute
+2. Ways to Get Involved
+3. Contribution Flow
+4. Reviews, Approvals & Merging
+5. Developer Certificate of Origin (DCO)
+6. Style & Documentation Guidelines
+7. Licensing & Attribution
+8. Governance, Maintainers & Meetings
+9. Code of Conduct
+10. Getting Help
 
-This sign-off means you agree the commit satisfies the
-[Developer Certificate of Origin (DCO).](https://developercertificate.org/)
+---
 
-## Governance
+## Scope: What You Can Contribute
 
-### Roles
+This is primarily a **documentation and resources** repository. Contributions are welcome across all working groups and cross‑cutting themes:
 
-The project community consists of Contributors and Maintainers:
-* A **Contributor** is anyone who submits a contribution to the project. (Contributions may include code, issues, comments, documentation, media, or any combination of the above.)
-* A **Maintainer** is a Contributor who, by virtue of their contribution history, has been given write access to project repositories and may merge approved contributions.
-* The **Lead Maintainer** is the project's interface with the FINOS team and Board. They are responsible for approving [quarterly project reports](https://community.finos.org/docs/governance/#project-governing-board-reporting) and communicating on behalf of the project. The Lead Maintainer is elected by a vote of the Maintainers. 
+### Working Group Content
 
-### Contribution Rules
+- **Outreach**: technology landscape review templates, strategic guidance frameworks, charity engagement playbooks, case studies from outreach engagements
+- **Inclusive Engineering**: mentoring guides, program templates, inclusive practices, ethical nudge patterns, education and school outreach materials
+- **DE Role Definition**: improvements to the standard definition, adoption guidance, competency framework examples
 
-Anyone is welcome to submit a contribution to the project. The rules below apply to all contributions. (The key words "MUST", "SHALL", "SHOULD", "MAY", etc. in this document are to be interpreted as described in [IETF RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).)
+### Cross‑Cutting Content
 
-* All contributions MUST be submitted as pull requests, including contributions by Maintainers.
-* All pull requests SHOULD be reviewed by a Maintainer (other than the Contributor) before being merged.
-* Pull requests for non-trivial contributions SHOULD remain open for a review period sufficient to give all Maintainers a sufficient opportunity to review and comment on them.
-* After the review period, if no Maintainer has an objection to the pull request, any Maintainer MAY merge it.
-* If any Maintainer objects to a pull request, the Maintainers SHOULD try to come to consensus through discussion. If not consensus can be reached, any Maintainer MAY call for a vote on the contribution.
+- **Toolkit content**: playbooks, checklists, templates, frameworks
+- **Guides and explainers**: architecture patterns, decision frameworks, AI usage guardrails
+- **Education content**: talks, decks, webinars, school outreach materials
+- **Thought leadership**: curated reading lists, synthesized insights
+- **Research**: briefs, methods, collaboration proposals
+- **Case studies / success stories** (anonymized and shareable)
+- **Repo infrastructure**: organization, indexing, metadata, diagrams, accessibility
 
-### Maintainer Voting
+> If you want to contribute code (e.g., a website or tooling), please open an issue first so maintainers can align on scope and location.
 
-The Maintainers MAY hold votes only when they are unable to reach consensus on an issue. Any Maintainer MAY call a vote on a contested issue, after which Maintainers SHALL have 36 hours to register their votes. Votes SHALL take the form of "+1" (agree), "-1" (disagree), "+0" (abstain). Issues SHALL be decided by the majority of votes cast. If there is only one Maintainer, they SHALL decide any issue otherwise requiring a Maintainer vote. If a vote is tied, the Lead Maintainer MAY cast an additional tie-breaker vote.
+---
 
-The Maintainers SHALL decide the following matters by consensus or, if necessary, a vote:
-* Contested pull requests
-* Election and removal of the Lead Maintainer
-* Election and removal of Maintainers
+## Ways to Get Involved
 
-All Maintainer votes MUST be carried out transparently, with all discussion and voting occurring in public, either:
-* in comments associated with the relevant issue or pull request, if applicable;
-* on the project mailing list or other official public communication channel; or
-* during a regular, minuted project meeting.
+- **Open an Issue** to request a resource, propose a change, or discuss an idea
+- **Comment on Issues/PRs** to share expertise or suggest improvements
+- **Submit a PR** with content or fixes
+- **Join a Working Group** — participate in the Outreach or Inclusive Engineering groups
+- **Join discussions** on approach, structure, and roadmap
+- **Propose a talk/webinar** or share slides for community reuse
+- **Share a success story** (ensure it’s anonymized and publishable)
 
-### Maintainer Qualifications
+---
 
-Any Contributor who has made a substantial contribution to the project MAY apply (or be nominated) to become a Maintainer. The existing Maintainers SHALL decide whether to approve the nomination according to the Maintainer Voting process above.
+## Contribution Flow
 
-### Changes to this Document
+We use an **issue‑first workflow** and standard GitHub PR reviews.
 
-This document MAY be amended by a vote of the Maintainers according to the Maintainer Voting process above.
+1. **Discuss first (recommended).**  
+   - Search existing issues/PRs.  
+   - If substantial, open an issue to outline intent and get feedback.
+2. **Fork & branch.**  
+   - Use a descriptive branch name, e.g., `feature/toolkit-mentoring-guide` or `docs/fix-typos`.
+3. **Write changes.**  
+   - Keep PRs focused and reasonably small.  
+   - Include context in the PR description (what/why).
+4. **Sign your commits.**  
+   - Use DCO sign‑off (`git commit -s`). See below.
+5. **Open a PR.**  
+   - Reference the issue, add a brief summary and checklist.  
+   - Mark PR as draft if still discussing.
+6. **Incorporate feedback.**  
+   - Respond constructively; we aim for lazy consensus.
+7. **Approval & merge.**  
+   - See Reviews, Approvals & Merging.
+
+**Substantial changes** (e.g., new sections of the toolkit, novel frameworks) should include a short design note (RFC) in the PR description or as a new Markdown file (e.g., `governance/decisions/000X-title.md`) summarizing motivation, alternatives, and outcomes.
+
+---
+
+## Reviews, Approvals & Merging
+
+We use a two‑tier review model. Any maintainer may escalate a PR to the significant tier if they believe the impact warrants it.
+
+### Standard changes
+
+Most contributions — new guides, templates, case studies, fixes, and improvements to existing content.
+
+- Require **≥1 maintainer** approval (≥2 for larger additions).
+- **Lazy consensus** applies: if no substantive objections are raised within a reasonable review window (typically 5–10 business days), maintainers may proceed with merge.
+
+### Significant changes
+
+Changes that materially affect the SIG's direction, governance, or public commitments — for example, changes to governance or decision‑making processes, creation or retirement of working groups, new external partnerships or public positions, and structural reorganisation of the repository or toolkit.
+
+- Must start with a **GitHub Issue or Discussion** labelled `significant-decision`, open for a minimum of **10 business days** before a PR is raised.
+- Require **active approval** (explicit "+1") from **≥3 maintainers representing ≥2 organisations**. Lazy consensus does not apply — silence is not agreement.
+- The PR description must include a short decision record summarising motivation, alternatives considered, and outcome.
+
+### General
+
+- We prefer **squash merges** to keep history clean.
+- Use GitHub labels (`standard`, `significant-decision`) to make the expected process visible.
+
+---
+
+## Developer Certificate of Origin (DCO)
+
+**All commits must be signed** using the DCO. Add a `Signed-off-by` line in your commit message with your name and email:
+
+```
+Signed-off-by: Jane Doe <jane.doe@example.com>
+```
+
+
+Use the `-s` flag to sign automatically:
+
+```bash
+git commit -s -m "Add mentoring program checklist"
+```
+
+If you forgot to sign, you can amend:
+
+```bash
+git commit --amend -s
+git push --force-with-lease
+```
+
+## Style & Documentation Guidelines
+
+- **Markdown**: Use #-style headings; prefer short paragraphs and lists.
+- **Tone**: Clear, neutral, inclusive, vendor‑ and org‑agnostic.
+- **Accessibility**: Add alt text for images; prefer text-first content; ensure contrast in diagrams.
+- **File & folder names**: lowercase with hyphens, e.g., mentoring/mentor-playbook.md.
+- **Images/diagrams**: Put under ./assets/ or a relevant subfolder; use open or self-authored visuals.
+- **Templates & checklists**: Place under toolkit/templates/ and reference from your guide.
+- **Citations & external links**: Cite sources when summarizing external materials; ensure links are stable.
+- **Attribution**: See Licensing & Attribution.
+
+When in doubt, look at existing files for examples and consistency.
+
+## Licensing & Attribution
+
+This repository is licensed under CC BY 4.0. By contributing, you agree your contribution is provided under the same license.
+
+- Include attribution when reusing third‑party materials and ensure they are compatible with CC BY 4.0.
+- Avoid adding content you cannot legally share.
+- If you contribute materials previously published elsewhere, confirm you (or your employer) have rights to relicense under CC BY 4.0.
+
+```
+SPDX-License-Identifier: CC-BY-4.0.
+```
+
+## Governance, Maintainers & Meetings
+
+- **Maintainers are Distinguished Engineers (DEs)** from multiple organizations. They steward quality, review PRs, and curate the roadmap.
+- The SIG uses **open governance**: public issues, PRs, and transparent decision records.
+- Meetings (when held) are posted publicly with agendas and minutes in github issues.
+
+## Code of Conduct
+
+Participation is governed by the FINOS Community [Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct) and [Collaborative Principles](https://community.finos.org/docs/governance/collaborative-principles/).
+Be respectful, inclusive, and constructive. Harassment or inappropriate behavior is not tolerated.
+
+## Getting Help
+
+- Open an [Issue](https://github.com/finos-labs/distinguished-engineer-community/issues) for questions, requests, or proposals
+- Comment on [PRs](https://github.com/finos-labs/distinguished-engineer-community/pulls) and [issues](https://github.com/finos-labs/distinguished-engineer-community/issues) to share expertise
+- Use [Discussions](https://github.com/finos-labs/distinguished-engineer-community/discussions)
+
+We appreciate your time and expertise—thank you for helping the community do more good, together.

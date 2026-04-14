@@ -40,15 +40,34 @@ export const features = [
         }  
     },
     {
-        title: <>How We Can Help</>,
+        title: <>Outreach Working Group</>,
         imageUrl: '/img/feature/how-we-can-help.png',
         description: (
-            <>Coming soon!</>
+            <>We partner with charities and social impact organisations to strengthen their technology capabilities through independent, pro-bono technical guidance from Distinguished Engineers across firms.</>
         ),
         about: {
-            title: <>Placeholder Link</>,
-            link: 'docs'
-        },                
+            title: <>Learn more about the Outreach Working Group</>,
+            link: 'docs/outreach'
+        },        
+        project: {
+            title: '',
+            link: ''
+        },        
+        involved: {
+            title: '',
+            link: ''
+        }  
+    },
+    {
+        title: <>Inclusive Engineering Working Group</>,
+        imageUrl: '/img/feature/inclusive-engineering.png',
+        description: (
+            <>We focus on mentoring, allyship, and inclusive technology practices — mentoring across career stages, ethical behavioral design, and education to widen the pipeline of future engineers.</>
+        ),
+        about: {
+            title: <>Learn more about the Inclusive Engineering Working Group</>,
+            link: 'docs/inclusive-engineering'
+        },        
         project: {
             title: '',
             link: ''

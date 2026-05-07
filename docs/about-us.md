@@ -15,7 +15,7 @@ As a **Special Interest Group (SIG)** within the [**Fintech Open Source Foundati
 
 ## How We Can Help
 
-We offer **technical leadership and guidance** to organisations we believe are worthy of our time, helping them scale innovation and define sustainable technology strategies.
+We offer **technical leadership and guidance** to organisations with limited access to technical expertise, helping them scale innovation and define sustainable technology strategies.
 
 Our goal is to **amplify our societal impact** by becoming a trusted advisor and partner with organisations who need our help in setting technology direction and help them solve the most complex challenges.
 

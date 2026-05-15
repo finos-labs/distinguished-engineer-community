@@ -1,6 +1,6 @@
 # Contributing to the Distinguished Engineer Community (FINOS DE SIG)
 
-We’re glad you’re here! This repository is a collaborative hub for **public, reusable resources** created by Distinguished Engineers and the broader community, all aligned to our mission of responsible, high‑impact technology.
+We’re glad you’re here! This repository is a collaborative hub for **public, reusable resources** created by Distinguished Engineers and the broader community. All outputs are published as open, CC BY 4.0‑licensed resources — thought leadership, frameworks, templates, and guidance that the whole industry can use.
 
 > ✅ We welcome contributions from **anyone**: engineers, subject matter experts, professional/engineering practice groups, researchers, students, and more.
 
@@ -35,10 +35,11 @@ This is primarily a **documentation and resources** repository. Contributions ar
 
 ### Cross‑Cutting Content
 
+- **Thought leadership**: cross‑firm articles, synthesized insights, curated reading lists
+- **Open‑source engagement**: guides for DEs engaging with open‑source, FINOS project spotlights, webinar recordings
 - **Toolkit content**: playbooks, checklists, templates, frameworks
 - **Guides and explainers**: architecture patterns, decision frameworks, AI usage guardrails
 - **Education content**: talks, decks, webinars, school outreach materials
-- **Thought leadership**: curated reading lists, synthesized insights
 - **Research**: briefs, methods, collaboration proposals
 - **Case studies / success stories** (anonymized and shareable)
 - **Repo infrastructure**: organization, indexing, metadata, diagrams, accessibility

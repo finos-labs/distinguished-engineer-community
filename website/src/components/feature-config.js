@@ -5,7 +5,7 @@ export const features = [
         title: <>About Us</>,
         imageUrl: '/img/feature/about-us.png',
         description: (
-            <>Learn more about the Distinguished Engineer Special Interest group, its goals and how it works to help Distinguished Engineers have a positive impact on wider society.</>
+            <>A community of Distinguished Engineers from across financial services, collaborating across firm boundaries to share expertise, produce open thought leadership, and engage with FINOS and open-source initiatives.</>
         ),
         about: {
             title: <>Learn more about the DE SIG</>,
@@ -43,7 +43,7 @@ export const features = [
         title: <>Outreach Working Group</>,
         imageUrl: '/img/feature/how-we-can-help.png',
         description: (
-            <>We partner with charities and social impact organisations to strengthen their technology capabilities through independent, pro-bono technical guidance from Distinguished Engineers across firms.</>
+            <>We partner with charities and social impact organisations to provide pro-bono technical guidance from Distinguished Engineers across firms — under established terms that protect all parties and keep engagements conflict-free.</>
         ),
         about: {
             title: <>Learn more about the Outreach Working Group</>,
@@ -62,7 +62,7 @@ export const features = [
         title: <>Inclusive Engineering Working Group</>,
         imageUrl: '/img/feature/inclusive-engineering.png',
         description: (
-            <>We focus on mentoring, allyship, and inclusive technology practices — mentoring across career stages, ethical behavioral design, and education to widen the pipeline of future engineers.</>
+            <>Addressing diversity at the top of the engineering career ladder through mentoring, allyship, and inclusive practices — applying the same open, consensus-driven values that make open-source communities successful.</>
         ),
         about: {
             title: <>Learn more about the Inclusive Engineering Working Group</>,

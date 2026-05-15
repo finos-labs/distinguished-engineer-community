@@ -66,6 +66,14 @@ module.exports = {
               to: 'docs/about-us'
             },
             {
+              label: 'Outreach Working Group',
+              to: 'docs/outreach',
+            },
+            {
+              label: 'Inclusive Engineering Working Group',
+              to: 'docs/inclusive-engineering',
+            },
+            {
               label: 'Defining Distinguished Engineers',
               to: 'docs/DERoleDefinition',
             },

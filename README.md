@@ -7,56 +7,52 @@
 # Distinguished Engineer Community (FINOS DE SIG)
 
 > **Mission**  
-> *"Our mission is to facilitate a trusted, accredited network of distinguished engineers and senior technology leaders who provide independent advice, strategic guidance and mentorship to worthy causes and Communities. Through our collective efforts, we seek to empower impactful initiatives, promote responsible use of technology, and do good in society beyond the boundaries of our industry roles."*
+> *"Our mission is to build a trusted community of distinguished engineers and senior technology leaders that enables cross‑organisational collaboration, amplifies their collective impact on wider society, and champions inclusive and responsible engineering — publishing the results of that collaboration as open, freely reusable resources.*"
 
 ---
 
 ## Who We Are
 
-We are a **Community of Distinguished Engineers (DEs)** — technical experts from leading multinational financial institutions — acting independently of organizational biases to apply deep engineering experience for positive societal impact.
+We are a **Community of Distinguished Engineers (DEs)** — among the most senior technologists in leading multinational financial institutions. As a **Special Interest Group (SIG)** within the [Fintech Open Source Foundation (FINOS)](https://finos.org), we provide a neutral, open space for DEs from competing firms to collaborate, share expertise, and apply their experience for positive societal impact.
 
-As a **Special Interest Group (SIG)** within the Fintech Open Source Foundation (FINOS), we collaborate across firms to advise worthy organizations, mentor engineers, and promote responsible, ethical, best‑in‑class technology practices.
+Many DEs spend the majority of their careers focused on internal initiatives and tooling. The DE SIG changes that: by bringing DEs together as a community, we enable them to engage with open‑source initiatives, connect with FINOS ambassadors and projects, and contribute their expertise beyond their own organisations — individually and collectively.
 
 ---
 
 ## What We Do
 
-We bring practical, senior engineering leadership to real‑world challenges through our active **working groups** and cross‑cutting activities.
+The DE SIG has three interconnected purposes:
 
-### Working Groups
+### 1. Enable Cross‑Organisational Collaboration
 
-Our work is organized into focused subgroups, each tackling a distinct area of our mission:
+Distinguished Engineers face common challenges — in architecture, strategy, talent, and technology adoption — but rarely have a forum to address them together across firm boundaries. The DE SIG provides that forum. We collaborate to:
 
-#### Outreach Working Group *(active)*
+- Share experience and tackle issues that affect our organisations collectively.
+- Produce and publish **thought leadership content** — articles, frameworks, and guidance — as open, Creative Commons‑licensed resources that the whole industry can use.
+- Engage with **FINOS projects and open‑source initiatives**, including through regular meetups and webinars. FINOS ambassadors and DE SIG members are natural partners: DEs are exactly the people who can carry open‑source insights back into their organisations, influence strategy, and direct colleagues toward relevant projects.
+- Support DEs who are newer to open‑source contribution by connecting them with those who have deep experience — so the community raises the whole group's ability to engage.
 
-Partners with charities and social impact organisations that would not normally have access to independent, high‑level technical guidance. DEs from different firms collaborate to:
+### 2. Provide Pro‑Bono Technical Outreach
 
-- Conduct **technology landscape reviews** — assessing infrastructure, platforms, data management, disaster recovery, and change approaches.
-- Provide **strategic technical guidance** — independent advice on cost optimisation, reliability, scalability, and long‑term technology strategy.
-- **Enable in‑house teams** — identifying skills gaps and building lasting technical confidence.
-- Deliver **open‑source driven support** — drawing on open‑source tools, frameworks, and best practices.
-- Maintain **organisation‑led, respectful partnerships** — the organisations we work with always define their objectives and own their decisions.
+Smaller charities and community organisations often lack access to the calibre of engineering expertise that DEs represent. Large enterprises frequently have volunteering programmes, but rarely deploy their most senior technical talent in them. The DE SIG changes this through the **Outreach Working Group**, which:
 
-#### Inclusive Engineering Working Group *(active)*
+- Partners with charities and social impact organisations to conduct technology landscape reviews, provide strategic technical guidance, and enable in‑house teams.
+- Operates under established [Terms of Engagement](terms-of-engagement) that protect all parties — the organisation, the DEs, their employers, and FINOS — from liability, while ensuring engagements are conflict‑free and organisation‑led.
+- Draws on open‑source tools and frameworks, and encourages contributions back to open‑source communities where appropriate.
 
-Focuses on mentoring, allyship, and inclusive technology practices:
+### 3. Champion Inclusive Engineering
 
-- **Mentoring & allyship** — mentoring across career stages, prioritizing underrepresented groups.
-- **Nudge Unit** — ethical behavioral design to encourage better decisions without limiting choice.
-- **Education & development** — talks, webinars, school outreach, myth‑busting about tech in finance.
+Diversity issues in technology are most acute at the top of the career ladder — precisely where DEs sit. The **Inclusive Engineering Working Group** addresses this directly by:
 
-#### DE Role Definition Working Group *(completed)*
+- Mentoring engineers across career stages, prioritising underrepresented groups.
+- Developing ethical behavioural design patterns (Nudge Unit) to build inclusivity into engineering processes.
+- Delivering education, school outreach, and myth‑busting content to widen the pipeline of future engineers.
 
-Delivered a [standard definition for the Distinguished Engineer role](docs/DERoleDefinition.md) in Financial Services, providing clarity and consistency for organisations establishing or evolving their own DE programmes.
+This work aligns naturally with open‑source principles: open‑source communities succeed through inclusive governance, consensus‑building, and enabling participation rather than restricting it — values the DE SIG actively promotes.
 
-### Cross‑Cutting Activities
+### DE Role Definition *(completed)*
 
-- **Technical leadership & guidance** — long‑term technology direction; complex systems and architecture reviews; scaling innovation.
-- **Practical advice** — hands‑on help, e.g., AI usage guidance, tender support, tooling and policy checklists, building teams.
-- **Thought leadership** — curating articles, books, and conference content from our members.
-- **Research** — partnering on studies that promote responsible tech and societal good.
-
-We turn this into **independently useful public resources**: playbooks, templates, checklists, guides, talks, case studies, and research summaries.
+An earlier working group delivered a [standard definition for the Distinguished Engineer role](docs/DERoleDefinition.md) in Financial Services, providing clarity and consistency for organisations establishing or evolving their own DE programmes.
 
 ---
 
@@ -65,12 +61,12 @@ We turn this into **independently useful public resources**: playbooks, template
 Working in the open is intrinsic to our mission:
 
 - **Transparency & trust** — open discussion, public artifacts, and traceable decision‑making.
-- **Reusability & impact** — CC BY 4.0–licensed materials can be adopted, remixed, and localized widely.
-- **Neutral governance** — multi‑organization maintainership avoids single‑vendor bias.
+- **Reusability & impact** — CC BY 4.0–licensed materials can be adopted, remixed, and localised widely.
+- **Neutral governance** — multi‑organisation maintainership avoids single‑firm bias, which is essential when members come from competing institutions.
 - **Meritocratic participation** — ideas are evaluated on their merits via issues, reviews, and community feedback.
-- **Interoperability & standardization** — common patterns and guidance benefit diverse adopters.
+- **Alignment with DE programmes** — DE programmes within large organisations often mirror open‑source and InnerSource principles: enabling the most senior engineers from different teams and franchises to collaborate, share knowledge, and influence strategy. The DE SIG extends this model across firm boundaries.
 
-FINOS provides a neutral home, community infrastructure, and open governance norms aligned to these principles, enabling cross‑firm collaboration at scale.
+FINOS provides a neutral home, community infrastructure, and open governance norms that make cross‑firm collaboration at this level possible. FINOS ambassadors embedded in member organisations are a natural bridge between the SIG and the open‑source projects that DEs can influence and contribute to.
 
 ---
 
@@ -98,22 +94,22 @@ We follow the FINOS Community Code of Conduct. Be respectful, inclusive, and con
 
 ## What We Produce (Toolkit)
 
-We are building a public **Toolkit** of independently useful resources, organized by working group and cross‑cutting themes:
+All outputs are published as open, CC BY 4.0–licensed resources. We are building a public **Toolkit** organised by working group and cross‑cutting themes:
 
-- **Outreach** — technology landscape review templates, strategic guidance frameworks, charity engagement playbooks.
-- **Inclusive Engineering** — mentor guides, program templates, inclusive practices, ethical nudge patterns.
+- **Outreach** — terms of engagement templates, technology landscape review frameworks, charity engagement playbooks, anonymised case studies.
+- **Inclusive Engineering** — mentor guides, programme templates, inclusive practices, ethical nudge patterns.
 - **DE Role Definition** — standard role definition document, competency frameworks, adoption guidance.
-- **Leadership & strategy** — architecture review frameworks, decision records, operating models.
+- **Thought leadership** — cross‑firm articles, curated reading lists, talks, and conference content.
+- **Open‑source engagement** — guides for DEs engaging with open‑source for the first time, FINOS project spotlights, webinar recordings.
 - **Practical guidance** — AI usage guardrails, RFP/tender checklists, policy/playbook templates.
 - **Education** — slide decks, webinars, short explainer notes, school outreach materials.
-- **Thought leadership** — curated reading lists, talks, case studies / success stories.
 - **Research** — summary briefs, methods, collaboration frameworks.
 
 
 ## Contributing
 
 We welcome issues, discussions, and PRs from across the community.  
-See [CONTRIBUTING.mc](./CONTRIBUTING.md) for details on:
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for details on:
 
 - What to contribute (docs, templates, examples, research notes, talks, case studies)
 - Issue‑first workflow and PR process
@@ -128,14 +124,7 @@ See [CONTRIBUTING.mc](./CONTRIBUTING.md) for details on:
 
 ## Roadmap
 
-We track the roadmap transparently through issues, milestones, and (optionally) a `ROADMAP.md`.  
-Initial focus includes:
-- Expanding **Outreach** engagements with charities and social impact organisations
-- Curating and publishing the first version of the **Toolkit**
-- Establishing the **Inclusive Engineering** mentoring/allyship materials
-- Promoting adoption of the **DE Role Definition** across the industry
-- Capturing case studies and research partnerships
-- Publishing public talk materials and educational content
+We track the roadmap transparently through issues, milestones, and project boards. See [docs/roadmap.mdx](docs/roadmap.mdx) for the full roadmap.
 
 ---
 

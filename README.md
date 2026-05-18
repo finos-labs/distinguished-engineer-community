@@ -37,7 +37,7 @@ Distinguished Engineers face common challenges — in architecture, strategy, ta
 Smaller charities and community organisations often lack access to the calibre of engineering expertise that DEs represent. Large enterprises frequently have volunteering programmes, but rarely deploy their most senior technical talent in them. The DE SIG changes this through the **Outreach Working Group**, which:
 
 - Partners with charities and social impact organisations to conduct technology landscape reviews, provide strategic technical guidance, and enable in‑house teams.
-- Operates under established [Terms of Engagement](terms-of-engagement) that protect all parties — the organisation, the DEs, their employers, and FINOS — from liability, while ensuring engagements are conflict‑free and organisation‑led.
+- Operates under established [Terms of Engagement](docs/terms-of-engagement.md) that protect all parties — the organisation, the DEs, their employers, and FINOS — from liability, while ensuring engagements are conflict‑free and organisation‑led.
 - Draws on open‑source tools and frameworks, and encourages contributions back to open‑source communities where appropriate.
 
 ### 3. Champion Inclusive Engineering

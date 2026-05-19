@@ -66,7 +66,7 @@ Working in the open is intrinsic to our mission:
 - **Meritocratic participation** — ideas are evaluated on their merits via issues, reviews, and community feedback.
 - **Alignment with DE programmes** — DE programmes within large organisations often mirror open‑source and InnerSource principles: enabling the most senior engineers from different teams and franchises to collaborate, share knowledge, and influence strategy. The DE SIG extends this model across firm boundaries.
 
-FINOS provides a neutral home, community infrastructure, and open governance norms that make cross‑firm collaboration at this level possible. FINOS ambassadors embedded in member organisations are a natural bridge between the SIG and the open‑source projects that DEs can influence and contribute to.
+FINOS provides a neutral home, community infrastructure, and open governance norms that make cross‑firm collaboration at this level possible. FINOS ambassadors embedded in member organisations are a natural bridge between the SIG and the open‑source projects that DEs can influence and contribute to. All participants are subject to the [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), the [FINOS Community Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct), and all other [FINOS policies](https://community.finos.org/docs/governance/#policies). Meetings are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) — participants are free to use information received, but may not reveal the identity or affiliation of any speaker, nor attribute remarks to any individual. Together these create the trust and safety that make genuine cross‑firm collaboration possible.
 
 ---
 
@@ -85,10 +85,7 @@ We use open discussions (GitHub Issues/Discussions) and PR reviews. We prefer **
 At least **two maintainer approvals** are required for substantial changes. Smaller updates may use a single maintainer approval per policy in CONTRIBUTING.
 
 **Meetings & Cadence.**  
-We meet periodically to review progress, triage, and plan. Notes are captured in-repo (e.g., `/meetings/`) and linked from issues.
-
-**Code of Conduct.**  
-We follow the FINOS Community Code of Conduct. Be respectful, inclusive, and constructive at all times.
+We meet periodically to review progress, triage, and plan. Notes are captured in-repo (e.g., `/meetings/`) and linked from issues. All participants in DE SIG meetings are subject to the [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), the [FINOS Community Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct), and all other [FINOS policies](https://community.finos.org/docs/governance/#policies). Meetings are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) — see above.
 
 ---
 

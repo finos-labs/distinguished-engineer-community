@@ -71,9 +71,17 @@ Participating Distinguished Engineers contribute in a personal, pro-bono capacit
 
 Both parties agree to maintain the confidentiality of any sensitive information shared during the engagement and not to disclose it to third parties without prior written consent, except where required by law.
 
+Meetings held as part of this engagement are conducted under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): participants are free to use information received, but may not reveal the identity or affiliation of any speaker, nor attribute remarks to any individual.
+
 Meetings may be recorded, and an AI-generated transcript may be created and retained for the purpose of documentation and internal reference. The Organisation will be informed before any recording takes place.
 
 Any outputs or materials produced during the engagement that are intended for public release will be agreed between both parties before publication, and will be anonymised where appropriate.
+
+---
+
+## Applicable Policies
+
+All participants in DE SIG meetings and activities are subject to the [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), the [FINOS Community Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct), and all other [FINOS policies](https://community.finos.org/docs/governance/#policies). The Organisation's representative is asked to familiarise themselves with these policies before the engagement begins.
 
 ---
 

@@ -13,7 +13,7 @@ title: "Terms of Engagement"
 
 `[One or two sentences describing the organisation, its purpose, and the context for this engagement.]`
 
-**DE SIG:** The Distinguished Engineers Special Interest Group (DE SIG) is a community of senior technologists from the Financial Services industry who contribute pro-bono expertise, advice, and guidance to support charitable and social impact organisations. The DE SIG operates as a Special Interest Group within the [Fintech Open Source Foundation (FINOS)](https://finos.org).
+**DE SIG:** The Distinguished Engineers Special Interest Group (DE SIG) is a community of senior technologists from the Financial Services industry who contribute pro-bono expertise, advice, and guidance to support charitable and social impact organisations. The DE SIG operates as a Special Interest Group within the [Fintech Open Source Foundation (FINOS)](https://finos.org) (https://finos.org).
 
 ---
 
@@ -71,7 +71,7 @@ Participating Distinguished Engineers contribute in a personal, pro-bono capacit
 
 Both parties agree to maintain the confidentiality of any sensitive information shared during the engagement and not to disclose it to third parties without prior written consent, except where required by law.
 
-Meetings held as part of this engagement are conducted under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): participants are free to use information received, but may not reveal the identity or affiliation of any speaker, nor attribute remarks to any individual.
+Meetings held as part of this engagement are conducted under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) (https://www.chathamhouse.org/about-us/chatham-house-rule): participants are free to use information received, but may not reveal the identity or affiliation of any speaker, nor attribute remarks to any individual. This applies unless and until both parties agree in writing to publish specific details of the engagement, in which case only the details explicitly agreed for publication are exempt from this rule.
 
 Meetings may be recorded, and an AI-generated transcript may be created and retained for the purpose of documentation and internal reference. The Organisation will be informed before any recording takes place.
 
@@ -81,7 +81,7 @@ Any outputs or materials produced during the engagement that are intended for pu
 
 ## Applicable Policies
 
-All participants in DE SIG meetings and activities are subject to the [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/), the [FINOS Community Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct), and all other [FINOS policies](https://community.finos.org/docs/governance/#policies). The Organisation's representative is asked to familiarise themselves with these policies before the engagement begins.
+All participants in DE SIG meetings and activities are subject to the [LF Antitrust Policy](https://www.linuxfoundation.org/antitrust-policy/) (https://www.linuxfoundation.org/antitrust-policy/), the [FINOS Community Code of Conduct](https://community.finos.org/docs/governance/code-of-conduct) (https://community.finos.org/docs/governance/code-of-conduct), and all other [FINOS policies](https://community.finos.org/docs/governance/#policies) (https://community.finos.org/docs/governance/#policies). The Organisation's representative is asked to familiarise themselves with these policies before the engagement begins.
 
 ---
 

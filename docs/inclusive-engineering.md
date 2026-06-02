@@ -7,6 +7,12 @@ title: "Inclusive Engineering Working Group"
 
 The Inclusive Engineering Working Group brings together Distinguished Engineers committed to mentoring, allyship, and inclusive technology practices. We believe that diverse perspectives produce better engineering outcomes and that senior technologists have a responsibility to actively create opportunities for underrepresented groups.
 
+Diversity issues in technology are most acute at the top of the career ladder — precisely where DEs sit. By addressing inclusion from the top down, we can have an outsized effect on the culture and composition of the engineering profession.
+
+## Alignment with Open Source
+
+This work aligns naturally with open‑source principles. Open‑source communities succeed through inclusive governance, consensus‑building, and enabling participation rather than restricting it. The same values that make open‑source initiatives successful — unbiased governance, meritocracy, and transparency — are the values we champion in engineering organisations more broadly.
+
 ## What We Do
 
 ### Mentoring & Allyship
@@ -29,6 +35,7 @@ The Inclusive Engineering Working Group embodies the DE SIG's commitment to:
 - Ensuring senior technical leadership reflects and champions diversity
 - Creating reusable mentoring and allyship frameworks that any organisation can adopt
 - Demonstrating that inclusive practices and engineering excellence go hand in hand
+- Applying open‑source values — inclusivity, transparency, consensus — to the engineering profession itself
 
 ## What We Produce
 

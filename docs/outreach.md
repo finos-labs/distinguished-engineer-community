@@ -7,6 +7,8 @@ title: "Outreach Working Group"
 
 The Outreach Working Group partners with charities and social impact organisations that would not normally have access to independent, high-level technical guidance. Distinguished Engineers from different firms collaborate through the DE SIG to solve real-world problems and support communities.
 
+Many large enterprises have volunteering programmes, but rarely deploy their most senior technical talent through them. The DE SIG changes this: by organising DEs as a community, we make it practical for them to contribute their expertise where it has the greatest impact — safely, under established terms, and without creating liability for FINOS or their host organisations.
+
 ## What We Do
 
 We engage directly with organisations to strengthen their technology capabilities, improve operational resilience, and empower their internal teams. Our support includes:
@@ -27,6 +29,15 @@ The Outreach Working Group embodies the DE SIG's commitment to:
 - Providing visible examples of cross-industry collaboration at its best
 
 Through engagements like these, Distinguished Engineers demonstrate practical, pro-bono leadership while supporting organisations that make a real difference in communities around the world.
+
+## How Engagements Work
+
+All engagements are governed by the DE SIG's standard [Terms of Engagement](terms-of-engagement), which:
+
+- Protect the organisation, the DEs, their employers, and FINOS from liability.
+- Ensure all advice is non-binding, conflict-free, and provided in good faith.
+- Establish a clear, repeatable process so organisations know what to expect and how to describe the help they need.
+- Preserve organisational autonomy — the organisation always defines its objectives and owns its decisions.
 
 ## Get Involved
 

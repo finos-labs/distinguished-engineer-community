@@ -16,7 +16,7 @@ module.exports = {
   organizationName: 'FINOS',
   customFields: {
     repoUrl: `https://github.com/finos-labs/${projectSlug}`,
-    missionStatement: "Our mission is to facilitate a trusted, accredited network of distinguished engineers and senior technology leaders who provide independent advice, strategic guidance and mentorship to worthy causes and Communities. Through our collective efforts, we seek to empower impactful initiatives, promote responsible use of technology, and do good in society beyond the boundaries of our industry roles."
+    missionStatement: "We build a trusted community of distinguished engineers and senior technology leaders that enables cross-organisational collaboration, amplifies their collective impact on wider society, and champions inclusive and responsible engineering — publishing the results of that collaboration as open, freely reusable resources."
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
@@ -44,9 +44,9 @@ module.exports = {
       ],
     },
     metadata: [
-      {name: 'description', content: 'Our mission is to facilitate a trusted, accredited network of distinguished engineers and senior technology leaders who provide independent advice, strategic guidance, and mentorship to worthy causes and communities. Through our collective efforts, we seek to empower impactful initiatives, promote responsible use of technology, and do good in society beyond the boundaries of our industry roles.'},
+      {name: 'description', content: 'A community of Distinguished Engineers from across financial services, collaborating across firm boundaries to share expertise, produce open thought leadership, support charities through pro-bono technical outreach, and champion inclusive engineering practices.'},
       {property: 'og:title', content: 'FINOS Distinguished Engineers Community'},
-      {property: 'og:description', content: 'Our mission is to facilitate a trusted, accredited network of distinguished engineers and senior technology leaders who provide independent advice, strategic guidance, and mentorship to worthy causes and communities. Through our collective efforts, we seek to empower impactful initiatives, promote responsible use of technology, and do good in society beyond the boundaries of our industry roles.'},
+      {property: 'og:description', content: 'A community of Distinguished Engineers from across financial services, collaborating across firm boundaries to share expertise, produce open thought leadership, support charities through pro-bono technical outreach, and champion inclusive engineering practices.'},
       {property: 'og:image', content: 'https://raw.githubusercontent.com/finos/software-project-blueprint/main/website/static/img/feature/feature-img.png'},
       {property: 'og:url', content: 'https://distinguished-engineer-community.finos.org'}
     ],
@@ -68,6 +68,10 @@ module.exports = {
             {
               label: 'Outreach Working Group',
               to: 'docs/outreach',
+            },
+            {
+              label: 'Terms of Engagement',
+              to: 'docs/terms-of-engagement',
             },
             {
               label: 'Inclusive Engineering Working Group',

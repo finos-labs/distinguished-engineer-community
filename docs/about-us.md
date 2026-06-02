@@ -5,7 +5,7 @@ title: "About the DE SIG"
 
 ## Our Mission
 
-_"Our mission is to build a trusted community of distinguished engineers and senior technology leaders that enables cross‑organisational collaboration, amplifies their collective impact on wider society, and champions inclusive and responsible engineering — publishing the results of that collaboration as open, freely reusable resources."_
+_"Our mission is to build a trusted community of distinguished engineers and senior technology leaders that provides independent advice and mentorship to worthy causes, enables cross‑organisational collaboration on shared challenges, and champions inclusive engineering — publishing the results of that collaboration as open, freely reusable resources."_
 
 ## Who We Are
 

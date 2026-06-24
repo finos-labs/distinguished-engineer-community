@@ -76,5 +76,24 @@ export const features = [
             title: '',
             link: ''
         }  
+    },
+    {
+        title: <>Get Involved</>,
+        imageUrl: '/img/feature/get-involved-homepage-icon.png',
+        description: (
+            <>Senior engineers across organisations are coming together to tackle shared challenges. We need more voices in the room — find out how you can contribute to technical guidance, outreach, and mentoring.</>
+        ),
+        about: {
+            title: <>Find out how to get involved</>,
+            link: 'docs/get-involved'
+        },        
+        project: {
+            title: '',
+            link: ''
+        },        
+        involved: {
+            title: '',
+            link: ''
+        }  
     }
 ];

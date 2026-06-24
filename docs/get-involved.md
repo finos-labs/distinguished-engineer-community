@@ -75,7 +75,7 @@ Register your interest to stay informed.
 - Subscribe to our mailing list by sending an email to [distinguished-engineer-community+subscribe@lists.finos.org](mailto:distinguished-engineer-community+subscribe@lists.finos.org), or [view the mailing list archive](https://lists.finos.org/g/distinguished-engineer-community)
 - Register for our meetings:
   - [Monthly meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98941494716?password=14fbd625-e747-41d5-b0f2-dc7ba43ec85a&invite=true)
-  - [Quarterly update](https://zoom-lfx.platform.linuxfoundation.org/meeting/98802575145?password=a123e00b-a189-41a1-9aa6-95a4dd7695f7&invite=true)
+  - [Quarterly update](https://zoom-lfx.platform.linuxfoundation.org/meeting/94610607456?password=62f33b1c-a6b4-4b31-a629-dfc32d74ebb1&invite=true)
   - [Inclusive Engineering Working Group](https://zoom-lfx.platform.linuxfoundation.org/meeting/98802575145?password=a123e00b-a189-41a1-9aa6-95a4dd7695f7&invite=true)
 - Stay connected and find out more
 

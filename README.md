@@ -115,6 +115,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for details on:
 - Style guidance for Markdown, diagrams, and images
 - Licensing and attribution
 
+For a full overview of how to participate — including joining meetings, subscribing to the mailing list, and ways to contribute beyond code — see our [Get Involved](https://distinguished-engineer-community.finos.org/docs/get-involved) page.
+
 > **DCO**: All commits must be signed (`git commit -s`) with a valid `Signed-off-by:` line.
 
 ---

@@ -58,6 +58,8 @@ This is primarily a **documentation and resources** repository. Contributions ar
 - **Propose a talk/webinar** or share slides for community reuse
 - **Share a success story** (ensure it’s anonymized and publishable)
 
+For meeting registration links, mailing list details, and other ways to participate, see our [Get Involved](https://distinguished-engineer-community.finos.org/docs/get-involved) page.
+
 ---
 
 ## Contribution Flow

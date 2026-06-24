@@ -36,6 +36,7 @@ module.exports = {
         {to: 'docs/about-us', label: 'Docs', position: 'right'},
         {to: 'docs/roadmap', label: 'Roadmap', position: 'right'},
         {to: 'docs/team', label: 'Team', position: 'right'},
+        {to: 'docs/get-involved', label: 'Get Involved', position: 'right'},
         {
           href: `https://github.com/${githubOrganisation}/${projectSlug}/`,
           label: 'GitHub',
@@ -84,6 +85,10 @@ module.exports = {
             {
               label: 'Team',
               to: 'docs/team',
+            },
+            {
+              label: 'Get Involved',
+              to: 'docs/get-involved',
             }
           ]
         },
